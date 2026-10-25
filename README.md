@@ -10,6 +10,14 @@ Vue 3 kanban board for [`taskflow-api`](https://github.com/kianPk/taskflow-api).
 
 **https://kianpk.github.io/vue-task-board/**
 
+## Features
+
+- Kanban columns: todo / doing / done
+- Search tasks by title
+- Priority chips when the API returns `priority`
+- Keyboard 1/2/3 moves the focused task
+- Last active project remembered in localStorage
+
 ## Quick start
 
 ```bash
